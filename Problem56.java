@@ -16,7 +16,6 @@ public class Problem56 {
 		for (int i = 0 ; i <s.length(); i++){
 			res += Integer.parseInt(str[i]);
 		}
-		
 		return res;
 	}
 }
